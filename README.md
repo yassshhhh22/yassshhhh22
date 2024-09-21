@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on websites<br>👯 I’m looking to collaborate on Projects & Open-source conttributions <br>🤝 I’m looking for help with Creative Front-end<br>🌱 I’m currently learning Web/App development,Machine Learning
+🔭 I’m currently working on Open-source Contributions<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with Creative Front-end<br>🌱 I’m currently learning Web/App development,Machine Learning
 
 
 ## 🌐 Socials:
