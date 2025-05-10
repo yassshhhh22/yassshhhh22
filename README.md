@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on Open-source Contributions<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with Creative Front-end<br>🌱 I’m currently learning Web/App development,Machine Learning
+
+💻 **Full Stack Web Developer** — fluent in both front and back, building pixel-perfect interfaces and rock-solid server logic<br>
+⚙️ **Backend Development Specialist** — APIs, databases, authentication, system design — mastering the art behind the curtain<br>
+🚀 **DevOps Explorer** — learning CI/CD, Docker, Kubernetes, and cloud infrastructure to streamline deployment like a pro<br>
+🔭 Currently contributing to Open Source projects<br>
+👯 Open to collaborating on cool, impactful projects<br>
+🤝 Looking for creative front-end partners to vibe with<br>
+🌱 Expanding my skills in Web/App Development and Machine Learning<br>
+
 
 
 ## 🌐 Socials:
