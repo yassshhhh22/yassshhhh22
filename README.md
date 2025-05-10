@@ -1,11 +1,11 @@
 # 💫 About Me:
 
-💻 **Full Stack Web Developer** — fluent in both front and back, building pixel-perfect interfaces and rock-solid server logic<br>
-⚙️ **Backend Development Specialist** — APIs, databases, authentication, system design — mastering the art behind the curtain<br>
-🚀 **DevOps Explorer** — learning CI/CD, Docker, Kubernetes, and cloud infrastructure to streamline deployment like a pro<br>
+💻 **Full Stack Web Dev** — fluent in both front and back, building interfaces and server logic<br>
+⚙️ **Backend Dev** — APIs, databases, authentication, system design — mastering backend <br>
+🚀 **DevOps Explorer** — learning CI/CD, Docker, Kubernetes, and cloud infrastructure to streamline deployment <br>
 🔭 Currently contributing to Open Source projects<br>
-👯 Open to collaborating on cool, impactful projects<br>
-🤝 Looking for creative front-end partners to vibe with<br>
+👯 Open to collaborating on impactful projects<br>
+🤝 Looking for creative front-end partners <br>
 🌱 Expanding my skills in Web/App Development and Machine Learning<br>
 
 
