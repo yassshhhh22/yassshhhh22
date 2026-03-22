@@ -21,7 +21,7 @@
 
 ## About Me
 
-<img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Kakashi Coding" width="280" src="https://media.tenor.com/whgQwNlGj9QAAAAC/kakashi-hatake-kakashi.gif"/>
 
 Backend-focused Software Developer with a strong foundation in Data Structures and Algorithms (300+ problems solved).
 
@@ -35,15 +35,11 @@ Currently focused on backend engineering, system design, applied AI, and DevOps 
 
 ## Connect With Me
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yassshhhh22)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yassshhhh22)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27402808)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yassshhhh._22)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mryash7969@gmail.com)
-
-</div>
 
 ---
 
@@ -78,43 +74,23 @@ Currently focused on backend engineering, system design, applied AI, and DevOps 
 
 ## GitHub Stats
 
-<div align="center">
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassshhhh22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yassshhhh22&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&area_color=A855F7&hide_border=true" alt="Activity Graph"/>
-
-</div>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassshhhh22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages"/> <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=yassshhhh22&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&area_color=A855F7&hide_border=true" alt="Activity Graph"/>
 
 ---
-
-<div align="center">
 
 <img src="https://raw.githubusercontent.com/yassshhhh22/yassshhhh22/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" width="100%"/>
 
-</div>
-
 ---
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yassshhhh22/yassshhhh22/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
 
-</div>
-
 ---
 
 <div align="center">
+
+<img src="https://media.tenor.com/m/fsAzGqMhLCQAAAAd/attack-on-titan-levi.gif" width="250" alt="Levi Ackerman"/>
+
+*"A blade that's swung in self-doubt is one that'll miss when it matters most."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
