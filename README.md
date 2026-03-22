@@ -21,7 +21,7 @@
 
 ## About Me
 
-<img align="right" alt="Kakashi Coding" width="280" src="https://media.tenor.com/whgQwNlGj9QAAAAC/kakashi-hatake-kakashi.gif"/>
+<img align="right" alt="Kakashi Coding" width="280" src="https://media1.tenor.com/m/VOa6zv3vEW0AAAAC/kakashi-hatake-kakashi-main-laptop.gif"/>
 
 Backend-focused Software Developer with a strong foundation in Data Structures and Algorithms (300+ problems solved).
 
