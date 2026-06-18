@@ -4,11 +4,11 @@
 
 <br/>
 
-<a href="https://pandeyash.online">
-  <img src="https://img.shields.io/badge/pandeyash.online-Terminal_Portfolio-blueviolet?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Terminal Portfolio"/>
+<a href="https://cli.pandeyash.online">
+  <img src="https://img.shields.io/badge/cli.pandeyash.online-Terminal_Portfolio-blueviolet?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Terminal Portfolio"/>
 </a>
-<a href="https://gui.pandeyash.online">
-  <img src="https://img.shields.io/badge/gui.pandeyash.online-GUI_Portfolio-ff69b4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="GUI Portfolio"/>
+<a href="https://pandeyash.online">
+  <img src="https://img.shields.io/badge/pandeyash.online-GUI_Portfolio-ff69b4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="GUI Portfolio"/>
 </a>
 
 <br/><br/>
