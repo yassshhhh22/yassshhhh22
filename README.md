@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&random=false&width=800&height=45&lines=Backend+Developer+%7C+System+Design+%7C+Applied+AI" alt="Typing SVG" /></a>
 
@@ -23,11 +23,14 @@
 
 <img align="right" alt="Kakashi Coding" width="280" src="./assets/kakashi.gif"/>
 
-Backend-focused Software Developer with a strong foundation in Data Structures and Algorithms (300+ problems solved).
+Hello! I'm **Yash Pandey**, a person with a strong passion to build things that matter in the **AI era**. With the eagerness on how system works under the hood, I have been learning **System design, Backend Development, and DevOps** to build systems.
 
-Experienced in building scalable backend systems, real-time applications, and applied AI platforms using Node.js, Docker, AWS, and modern databases.
+While learning, I built a hands on experience with technologies related to **backend, Devops and AI** from _REST APIs_ to _production pipelines_ and _AI-backed services_.
+As an _Engineering Student_ with Majors in **Computer Science**, I have also gained knowledge on various subjects like **Machine Learning, Deep Learning, Design and Analysis of Algorithms, Operating Systems, Database Management Systems, Computer Networks, Operating Systems and Software Engineering**.
+I believe languages are just tools to express ideas with better optimization and effeciency. So with that belief after building so much in **Typescript, Javascript and Python**. I have started exploring other low level languages like **C++, Go** for optimzation in real time systems and **Rust** for memory safety and performance.
+As said so far, with experience in industry comes real knowledge to _learn, try and fail better_.
 
-Currently focused on backend engineering, system design, applied AI, and DevOps fundamentals.
+If my [Resume](https://drive.google.com/file/d/1fihsFb4iMqcdLmYyASNnNlDJFBovuG9d/view) interest you, as a _recruiter_, a _fellow developer_ or a _friend_, feel free to give me an opportunty to learn together and build something that matters.
 
 <br clear="both"/>
 
@@ -90,7 +93,7 @@ Currently focused on backend engineering, system design, applied AI, and DevOps 
 
 <img src="https://media.tenor.com/m/fsAzGqMhLCQAAAAd/attack-on-titan-levi.gif" width="250" alt="Levi Ackerman"/>
 
-*"A blade that's swung in self-doubt is one that'll miss when it matters most."*
+_"A blade that's swung in self-doubt is one that'll miss when it matters most."_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
