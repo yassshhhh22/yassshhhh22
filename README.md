@@ -37,6 +37,10 @@ If you are hiring, collaborating, or building something useful, feel free to rea
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
+**[Velve](https://github.com/yassshhhh22/velve)** &nbsp;·&nbsp; <samp>bun, hono, react, go, tunneling, distributed systems</samp><br>
+A self-hosted tunneling platform with a web dashboard, control plane API, public<br>
+gateway, and local CLI agent for securely exposing local services to the internet.
+
 **[GoDrop](https://github.com/yassshhhh22/GoDrop)** &nbsp;·&nbsp; <samp>react native, react, node.js, mongodb, redis</samp><br>
 Quick-commerce monorepo with an Expo mobile app, a React storefront, and a<br>
 Node/Express API supporting payments, media, caching, and live order updates.
