@@ -53,10 +53,6 @@ Sheets data and manages payment links, webhooks, receipts, and reconciliation.
 AI assistant for exploring ARGO ocean-float data through natural-language queries,<br>
 vector search, scientific charts, maps, and an interactive 3D globe.
 
-**[Stock Master](https://github.com/yassshhhh22/Stock-Master)** &nbsp;·&nbsp; <samp>node.js, express, mongodb, jwt</samp><br>
-Multi-warehouse inventory backend for receipts, deliveries, transfers, stock<br>
-adjustments, role-based access, alerts, and immutable audit trails.
-
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
 <div align="center">
