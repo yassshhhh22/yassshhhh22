@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="./stats.svg" width="620" alt="GitHub contributions in the last year"/>
 

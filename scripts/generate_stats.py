@@ -7,7 +7,6 @@ Outputs, all sharing one visual language with ascii.svg (the portrait):
   stats.svg   hero total + weekly sparkline
   streak.svg  current and longest streak
   langs.svg   top languages, by bytes and by repo count
-  year.svg    the year as a character map, in the portrait's own ramp
 
 Every file uses the portrait's grey ink, a monospace face, a transparent
 background, and the same left-to-right clipPath reveal with a cursor riding
@@ -465,12 +464,8 @@ def main():
     out_dir = os.environ.get("OUT_DIR", ".")
 
     s = summarise(fetch(login, token))
-    files = {
-    "stats.svg": draw_stats(s),
-    "streak.svg": draw_streak(s),
-    "langs.svg": draw_langs(s),
-    }
-
+    files = {"stats.svg": draw_stats(s), "streak.svg": draw_streak(s),
+             "langs.svg": draw_langs(s)}
     for word in ("about", "stack", "projects", "stats"):
         files[f"hd-{word.replace(' ', '-')}.svg"] = draw_heading(word)
 

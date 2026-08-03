@@ -1,7 +1,11 @@
 name: refresh profile stats
 
-# No push trigger because this workflow commits generated SVG files itself.
 on:
+  push:
+    paths:
+      - "scripts/generate_stats.py"
+      - "scripts/fonts/**"
+      - ".github/workflows/stats.yml"
   schedule:
     - cron: "17 5 * * *"
   workflow_dispatch:
@@ -19,20 +23,22 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - uses: actions/checkout@v5
+      - name: Check out profile repository
+        uses: actions/checkout@v4
 
-      - name: Generate profile graphics
+      - name: Generate profile SVGs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_LOGIN: ${{ github.repository_owner }}
         run: python3 scripts/generate_stats.py
 
-      - name: Commit changed graphics
+      - name: Commit generated SVGs
+        shell: bash
         run: |
           FILES="stats.svg streak.svg langs.svg hd-about.svg hd-stack.svg hd-projects.svg hd-stats.svg"
 
           if [ -z "$(git status --porcelain -- $FILES)" ]; then
-            echo "No profile graphic changes."
+            echo "No SVG changes."
             exit 0
           fi
 
